@@ -1,8 +1,11 @@
 # UAV-FogDet
 
 
-The weight files for UAV-FogDet have already been uploaded.
+## Coming Soon
+- Full model implementation code
+- Pre-trained model weights
+- Training and evaluation scripts
+- Detailed documentation and tutorials
 
-The dataset can be downloaded from https://github.com/GrokCV/HazyDet.
 
-All code is currently being organized and will be open-sourced soon.
+The full implementation code and pre-trained weights will be released after our paper is accepted for publication.
